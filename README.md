@@ -1,4 +1,4 @@
-# Calcify-seo-validations
+# Calcifyai-seo-validations
 
 Install dependencies:
 
