@@ -1,4 +1,4 @@
-# SEO Metadata Compare
+# Calcifyai-seo-validations-training
 
 Install dependencies:
 
