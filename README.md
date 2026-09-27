@@ -1,4 +1,4 @@
-# SEO Metadata Compare
+# Calcify-seo-validations
 
 Install dependencies:
 
